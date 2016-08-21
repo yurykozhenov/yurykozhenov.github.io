@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
+![My photo](https://secure.gravatar.com/avatar/721b972d2c2579e454d85953ecc5afd4?s=320)
+
 ## Skills:
-* **General:** HTML5, CSS3, JavaScript, HTTP, Wordpress, MEAN stack
+* **General:** HTML5, CSS3, JavaScript, HTTP, MEAN stack
 * **CSS:** Bootstrap, Sass, Less
 * **JavaScript:**: AJAX, jQuery, Node.js, ES6, Gulp, NPM, Bower
 * **Web frameworks:** AngularJS, Express, Flask, Ruby on Rails
